@@ -1,0 +1,1 @@
+from .fileA import methodA

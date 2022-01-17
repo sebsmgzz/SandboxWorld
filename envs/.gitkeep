@@ -1,0 +1,7 @@
+
+Put any custom .env here to make it easier for developers
+to implement different environments, plus keeping a record
+of them in source control.
+
+Do NOT add any secrets to those .env files, instead replace 
+them with a proper placeholder.

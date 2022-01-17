@@ -1,0 +1,8 @@
+
+Use this directory to store information required by 
+the program to work properly. Usually this information
+is dynamic, meaning files in here can be changed by
+sources other than the application itself.
+
+For web apps, this directory is usually named
+as the wwwroot or public directory.

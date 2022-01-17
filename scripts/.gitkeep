@@ -1,0 +1,5 @@
+
+Put here any automation related scripts.
+(i.e. build.sh, Deploy.ps1, etc)
+
+These files are NOT the same as the CI/CD config.
